@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "wiki-crowley",
+      "title": "维基 Crowley",
+      "url": "https://en.wikipedia.org/wiki/Aleister_Crowley",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-confessions",
+      "title": "维基 Confessions",
+      "url": "https://en.wikipedia.org/wiki/The_Confessions_of_Aleister_Crowley",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-adams",
+      "title": "维基 Adams",
+      "url": "https://en.wikipedia.org/wiki/Evangeline_Adams",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-neuburg",
+      "title": "维基 Neuburg",
+      "url": "https://en.wikipedia.org/wiki/Victor_Neuburg_(poet)",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-porfiriato",
+      "title": "维基 Porfiriato",
+      "url": "https://en.wikipedia.org/wiki/Porfiriato",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-us-entry-ww1",
+      "title": "维基 美国参战",
+      "url": "https://en.wikipedia.org/wiki/American_entry_into_World_War_I",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-orleans",
+      "title": "维基 Orléans",
+      "url": "https://en.wikipedia.org/wiki/Prince_Philippe,_Duke_of_Orléans_(1869–1926)",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-hopkinson",
+      "title": "维基 John Hopkinson",
+      "url": "https://en.wikipedia.org/wiki/John_Hopkinson",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-hector-macdonald",
+      "title": "维基 Hector MacDonald",
+      "url": "https://en.wikipedia.org/wiki/Hector_MacDonald",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "wiki-george-cecil-jones",
+      "title": "维基 George Cecil Jones",
+      "url": "https://en.wikipedia.org/wiki/George_Cecil_Jones",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "herald-1934",
+      "title": "Daily Herald 1934-04-13（诽谤案第三天报道，转录本）",
+      "url": "https://www.100thmonkeypress.com/biblio/acrowley/articles/1934_04_13_daily_herald.pdf",
+      "accessed": "2026-09-28"
+    },
+    {
+      "id": "nyt-1929",
+      "title": "New York Times 1929-04-17（巴黎驱逐令报道，转载）",
+      "url": "https://theclassicpost.com/paris-to-expel-aleister-crowley/",
+      "accessed": "2026-09-29"
+    }
+  ]
+}

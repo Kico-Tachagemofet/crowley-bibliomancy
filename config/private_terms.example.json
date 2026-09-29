@@ -1,0 +1,6 @@
+{
+  "note": "复制成 private_terms.json 后仅在本地使用，填写自己的私人词正则规则；不要提交该本地文件。",
+  "patterns": [
+    "your-private-name"
+  ]
+}

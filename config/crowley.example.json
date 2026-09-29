@@ -1,0 +1,6 @@
+{
+  "pdf_path": "./path/to/The Confessions of Aleister Crowley.pdf",
+  "target_words": 500,
+  "merge_tail_below": 200,
+  "long_paragraph_split": 800
+}

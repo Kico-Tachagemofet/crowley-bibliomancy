@@ -1,0 +1,12 @@
+config/crowley.json
+config/private_terms.json
+data/
+tools/crowley/manifest.json
+tools/crowley/unit_index.json
+tools/crowley/unit_map_report.md
+tools/crowley/cards.md
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.venv/
+*.pdf
